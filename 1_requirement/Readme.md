@@ -2,6 +2,14 @@
 The guessing game is two-person game called "Guess the number". The first player thinks of an integer within a known range. If the guess is incorrect then the first player tells the second player whether the guess was too high or too low. Eventusally the second player guesses the correct number.
 
 # SWOT ANALYSIS
+## STRENGTH:
+   Stress buster
+## WEAKNESS:
+At times,we cannot correctly
+## OPPORTUNITIES
+Game is for stress relief
+## THREAT
+Malware attack
 
 
 # 4 W's and 1H
