@@ -19,6 +19,7 @@ The guessing game is two-person game called "Guess the number". The first player
 |HLR_01|	Visual Studio code Platform	|software|
 |HLR_02|	windows or linux OS	|software|
 # LOW LEVEL REQUIREMENTS:
-ID	description
-LLR_01	reference number
-LLR_02	guessed number
+|ID|	description|
+|:-|:-------------|
+|LLR_01|	reference number|
+|LLR_02|	guessed number|
